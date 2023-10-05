@@ -1,0 +1,1 @@
+# Prediction-with-analomous-column-with-KNN-Classification
